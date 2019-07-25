@@ -1,6 +1,6 @@
-# imoocprotect
+# IMOOC
 
-> A Vue.js project
+> 利用Vue.js框架模仿慕课网做的一个项目
 
 ## Build Setup
 
